@@ -10,7 +10,8 @@ I mainly focus on the study of protein conformations through artificial intellig
 Homepage: https://htian97.github.io
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=htian97&show_icons=true&theme=default)
+![](https://github.com/htian97/github-stats/blob/main/overview.svg)
+![](https://github.com/htian97/github-stats/blob/main/languages.svg)
 ![](https://github-profile-trophy.vercel.app/?username=htian97&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
 
 ## How to reach me
