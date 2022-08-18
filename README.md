@@ -1,11 +1,11 @@
 
 ## About me
 
-<b>I will join Facebook as a software engineer intern in machine learning from May 2022.</b>
-
-I'm a 3rd year Ph.D. student majoring in Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. 
+I'm a 4th year Ph.D. student majoring in Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. 
 
 I mainly focus on the study of protein conformations through artificial intelligence. 
+
+I will join Meta as a Research Scientist from July 2023.
 
 Homepage: https://htian97.github.io
 
