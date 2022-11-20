@@ -5,8 +5,6 @@ I'm a final year Ph.D. student majoring in Computational Chemistry at Southern M
 
 I mainly focus on the study of protein conformations through artificial intelligence. 
 
-I will join Meta as a Research Scientist from July 2023.
-
 Homepage: https://htian97.github.io
 
 ## Stats
