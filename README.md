@@ -5,11 +5,11 @@ I'm a final year Ph.D. student majoring in Computational Chemistry at Southern M
 
 I mainly focus on the study of protein conformations through artificial intelligence. 
 
-Homepage: https://htian97.github.io
+Homepage: https://hhaootian.github.io
 
 ## Stats
-![](https://github.com/htian97/github-stats/blob/main/overview.svg)
-![](https://github.com/htian97/github-stats/blob/main/languages.svg)
+![](https://github.com/hhaootian/github-stats/blob/main/overview.svg)
+![](https://github.com/hhaootian/github-stats/blob/main/languages.svg)
 ![](https://github-profile-trophy.vercel.app/?username=htian97&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
 
 ## How to reach me
@@ -18,6 +18,6 @@ Homepage: https://htian97.github.io
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][googlescholar]
 
-[linkedin]: https://www.linkedin.com/in/hao-tian-324066170/
-[twitter]: https://twitter.com/_hao_tian
+[linkedin]: https://www.linkedin.com/in/hhaootian/
+[twitter]: https://twitter.com/hhaootian
 [googlescholar]: https://scholar.google.com/citations?user=5YeudXIAAAAJ&hl=en&oi=ao
