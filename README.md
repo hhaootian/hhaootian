@@ -20,4 +20,4 @@ Homepage: https://hhaootian.com
 
 [linkedin]: https://www.linkedin.com/in/hhaootian/
 [twitter]: https://twitter.com/hhaootian
-[googlescholar]: https://scholar.google.com/citations?user=5YeudXIAAAAJ&hl=en&oi=ao
+[googlescholar]: https://scholar.google.com/citations?user=X7ZR8J0AAAAJ
