@@ -5,7 +5,7 @@ I'm a final year Ph.D. student majoring in Computational Chemistry at Southern M
 
 I mainly focus on the study of protein conformations through artificial intelligence. 
 
-Homepage: https://hhaootian.github.io
+Homepage: https://hhaootian.com
 
 ## Stats
 ![](https://github.com/hhaootian/github-stats/blob/main/overview.svg)
