@@ -1,9 +1,13 @@
 
 ## About me
 
-I'm a final year Ph.D. student majoring in Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. 
+I'm a Research Scientist at Meta working on end-to-end machine learning systems.
 
-I mainly focus on the study of protein conformations through artificial intelligence. 
+I obtained my Ph.D. degree in Theoretical and Computational Chemistry at Southern Methodist University in May 2023. I also got an M.S. degree in Computer Science (OMSCS) at Georgia Tech.
+
+My Ph.D. research mainly lies in machine learning and molecular dynamics simulations, where I focused on: (1) deciphering protein allostery through machine learning-based methods; (2) understanding protein conformations through artificial intelligence.
+
+Feel free to contact me for research collaborations and software developer jobs. My resume PDF is available [here](https://hhaootian.github.io/files/resume.pdf).
 
 Homepage: https://hhaootian.com
 
