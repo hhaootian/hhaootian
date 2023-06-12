@@ -1,7 +1,7 @@
 
 ## About me
 
-I'm a Research Scientist at Meta working on end-to-end machine learning systems.
+I'm a Research Scientist at Meta working on identity prediction.
 
 I obtained my Ph.D. degree in Theoretical and Computational Chemistry at Southern Methodist University in May 2023. I also got an M.S. degree in Computer Science (OMSCS) at Georgia Tech.
 
